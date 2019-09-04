@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/dany/NetBeansProjects/LibretaDeNotas/src/java/dao/NotasDao.java</file>
+            <file>file:/Users/dany/NetBeansProjects/LibretaDeNotas/src/java/controller/NotasController.java</file>
+            <file>file:/Users/dany/NetBeansProjects/LibretaDeNotas/src/java/beans/NotasDto.java</file>
+            <file>file:/Users/dany/NetBeansProjects/LibretaDeNotas/web/index.jsp</file>
+            <file>file:/Users/dany/NetBeansProjects/LibretaDeNotas/src/java/dao/MysqlConnection.java</file>
+            <file>file:/Users/dany/NetBeansProjects/LibretaDeNotas/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
